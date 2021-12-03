@@ -1,3 +1,4 @@
+"Kata: Credit Card Mask"
 print("write something: ")
 
 cc = input()
