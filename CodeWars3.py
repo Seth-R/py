@@ -1,3 +1,4 @@
+"Vowel Count"
 print("write someting: ")
 sentence = input()
 

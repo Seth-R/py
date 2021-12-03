@@ -1,4 +1,4 @@
-"CoeWars2"
+"Sequence of squared digits"
 import math
 
 print("escribe un numero: ")
