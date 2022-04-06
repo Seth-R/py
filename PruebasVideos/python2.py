@@ -4,6 +4,7 @@
 print ("escribe algo: ")
 
 lista = input()
+
 def contarElementosLista(lista):
     """
     Recibe una lista, y devuelve un diccionario con todas las repeticiones de
