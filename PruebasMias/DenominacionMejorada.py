@@ -137,8 +137,8 @@ print("total a pagar: ", total)
 
 #print (denominaciones)
 
-"puedo asignarle el monto de Debominacion que se le"
-"debe dar a cada empleado con su codigo de empleado"
+"""puedo asignarle el monto de Debominacion que se le
+debe dar a cada empleado con su codigo de empleado"""
 
 #8 -> 1000
 #1 -> 500

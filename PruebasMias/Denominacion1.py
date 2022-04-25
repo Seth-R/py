@@ -112,5 +112,5 @@ for sumas in Tabla["sueldo"]:
 print("total a pagar: ", total)
 print (denominaciones)
 
-"puedo asignarle el monto de Debominacion que se le"
+"puedo asignarle el monto de Denominacion que se le"
 "debe dar a cada empleado con su codigo de empleado"
